@@ -1,0 +1,19 @@
+#gör en virtual environment, installerar dependensies. Jinja, markupsafe, colorama, blinker, wekzeug, gunicorn, flask
+#bare minimum dependensies i requirements.txt
+#gör github repository, till github 
+
+
+
+#C:\Users\franc> mkdir
+# mkdir flasktestingapp123
+#cd flasktestingapp123
+#cd flasktestingapp123>code .
+
+#pip install pipenv
+#pipenv shell
+#pip install flask gunicorn
+
+#python app.py
+#pip freeze
+#pip freeze> requirements.txt
+
