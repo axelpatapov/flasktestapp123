@@ -2,6 +2,18 @@
 #bare minimum dependensies i requirements.txt
 #gör github repository, till github 
 
+#github deployment, från github
+# https://github.com/axelpotapoff/flasktestapp123
+"""
+echo "# flasktestapp123" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/axelpotapoff/flasktestapp123.git
+git push -u origin main
+"""
+
 
 
 #C:\Users\franc> mkdir
@@ -17,3 +29,11 @@
 #pip freeze
 #pip freeze> requirements.txt
 
+
+"Loggar in i Heroku"
+
+#heroku login
+"sedan gör en flask app"
+#heroku create flaskapptesting123456
+"i heroku så gör man sedan en buildpakc med interpreter language, gör även en Pipfile.lock, som lagrar 'all info om sidan'"
+#git push heroku master, pipenv
